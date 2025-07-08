@@ -1,12 +1,79 @@
-# React + Vite
+# 🧠 FlowMapp — Modern UX Planning App UI (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, pixel-perfect UI inspired by [flowmapp.com](https://flowmapp.com), rebuilt using **React + Vite**.  
+Design-first. Developer-fast. ⚡
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Preview
 
-## Expanding the ESLint configuration
+> Coming soon — will deploy on **Vercel** or **Netlify** after polishing up the full flow.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screenshot
+
+![Landing Page Preview](https://i.ibb.co/60bQkWkD/Screenshot-2025-07-09-at-2-17-02-AM.png)  
+> Gradient perfection meets functional UX layout.
+
+---
+
+## ⚙️ Tech Stack
+
+| Tech       | Why It's Used                       |
+|------------|-------------------------------------|
+| 🧠 React    | Component-based UI, fast dev        |
+| ⚡ Vite     | Ultra-fast bundler and hot reload   |
+| 🎨 CSS      | Custom styling, no bloated frameworks |
+| 🧱 JSX      | Clean, modular components            |
+
+---
+
+## ✨ Features (So Far)
+
+- ✅ Hero section with beautiful background gradient  
+- ✅ Headline, CTA, and mocked components (invoice, chat, layout preview)  
+- 🎯 Inspired directly by [Flowmapp](https://flowmapp.com) aesthetics  
+- 🪄 Simple & clean layout made with pure CSS (no Tailwind or Bootstrap bloat)
+
+---
+
+## 🔮 Roadmap
+
+- [ ] Fully responsive design (mobile/tablet)  
+- [ ] Add hover & transition effects  
+- [ ] Modularize components into sections  
+- [ ] Add Routing for other pages (Features, Pricing, etc.)  
+- [ ] Deploy to Vercel/Netlify with custom domain
+
+---
+
+## 🛠️ Getting Started
+
+To run locally:
+
+```bash
+git clone https://github.com/Shlokmonster/FlowMapp.git
+cd FlowMapp
+npm install
+npm run dev
+```
+
+---
+
+## 🧑‍🎨 Author
+
+Built with love by [@Shlokmonster](https://github.com/Shlokmonster)  
+📍 Engineering student · Full-stack Dev · UI/UX nerd
+
+---
+
+## 📄 License
+
+MIT — feel free to use, fork, remix, and build on it!
+
+---
+
+## 🙌 Contributions
+
+PRs welcome! Let's turn this into a clean, production-grade clone.
