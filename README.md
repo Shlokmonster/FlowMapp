@@ -1,24 +1,24 @@
-# 🧠 FlowMapp — Modern UX Planning App UI (React + Vite)
+#  FlowMapp — Modern UX Planning App UI (React + Vite)
 
 A sleek, pixel-perfect UI inspired by [flowmapp.com](https://flowmapp.com), rebuilt using **React + Vite**.  
 Design-first. Developer-fast. ⚡
 
 ---
 
-## 🔗 Live Preview
+##  Live Preview
 
 > Coming soon — will deploy on **Vercel** or **Netlify** after polishing up the full flow.
 
 ---
 
-## 🖼️ Screenshot
+## Screenshot
 
 ![Landing Page Preview](https://i.ibb.co/60bQkWkD/Screenshot-2025-07-09-at-2-17-02-AM.png)  
 > Gradient perfection meets functional UX layout.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Tech       | Why It's Used                       |
 |------------|-------------------------------------|
@@ -29,16 +29,16 @@ Design-first. Developer-fast. ⚡
 
 ---
 
-## ✨ Features (So Far)
+##  Features (So Far)
 
-- ✅ Hero section with beautiful background gradient  
-- ✅ Headline, CTA, and mocked components (invoice, chat, layout preview)  
-- 🎯 Inspired directly by [Flowmapp](https://flowmapp.com) aesthetics  
-- 🪄 Simple & clean layout made with pure CSS (no Tailwind or Bootstrap bloat)
+-  Hero section with beautiful background gradient  
+-  Headline, CTA, and mocked components (invoice, chat, layout preview)  
+-  Inspired directly by [Flowmapp](https://flowmapp.com) aesthetics  
+-  Simple & clean layout made with pure CSS (no Tailwind or Bootstrap bloat)
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [ ] Fully responsive design (mobile/tablet)  
 - [ ] Add hover & transition effects  
@@ -48,7 +48,7 @@ Design-first. Developer-fast. ⚡
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 To run locally:
 
@@ -61,14 +61,14 @@ npm run dev
 
 ---
 
-## 🧑‍🎨 Author
+##  Author
 
 Built with love by [@Shlokmonster](https://github.com/Shlokmonster)  
-📍 Engineering student · Full-stack Dev · UI/UX nerd
+Engineering student · Full-stack Dev · UI/UX nerd
 
 ---
 
-## 📄 License
+##  License
 
 MIT — feel free to use, fork, remix, and build on it!
 
